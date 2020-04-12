@@ -1,4 +1,4 @@
-
+"""2. Закодируйте любую строку по алгоритму Хаффмана."""
 
 class Node:
     def __init__(self, w=None, l=None, r=None, s=None):
